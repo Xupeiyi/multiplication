@@ -4,7 +4,7 @@ import microservices.book.multiplication.user.User;
 import org.springframework.stereotype.Service;
 
 @Service
-public class ChallengeServiceImpl implements ChallengeService{
+public class ChallengeServiceImpl implements ChallengeService {
 
     @Override
     public ChallengeAttempt verifyAttempt(ChallengeAttemptDTO attemptDTO) {

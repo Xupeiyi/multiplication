@@ -7,5 +7,6 @@ public class ChallengeAttemptDTO {
     int factorA, factorB;
 
     String userAlias;
+
     int guess;
 }
