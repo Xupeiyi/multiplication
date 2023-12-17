@@ -18,4 +18,5 @@ public interface ChallengeService {
      * @return a list of the last 10 {@link ChallengeAttempt}
      */
     List<ChallengeAttempt> getStatsForUser(String userAlias);
+
 }
