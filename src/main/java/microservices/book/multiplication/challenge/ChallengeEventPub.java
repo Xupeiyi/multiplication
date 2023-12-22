@@ -35,6 +35,4 @@ public class ChallengeEventPub {
                 attempt.getUser().getAlias()
         );
     }
-
-
 }
